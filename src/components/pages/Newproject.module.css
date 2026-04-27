@@ -1,0 +1,13 @@
+.newproject_contaniner{
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+.newproject_contaniner h1{
+    margin-bottom: 0.5em;
+}
+
+.nrewproject_contaniner p{
+    color: #7b7b77;
+}
